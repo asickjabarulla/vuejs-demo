@@ -1,4 +1,4 @@
-# demo-crud
+# demo-app
 
 ## Project setup
 ```
